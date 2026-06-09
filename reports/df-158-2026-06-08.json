@@ -1,0 +1,18 @@
+{
+  "k17_pre_action_verification": {
+    "env_tag": "mock",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "tracker": {
+    "after_hours_pct": 0.0,
+    "cadence_per_channel": {},
+    "channels_active": 0,
+    "df": "DF-158",
+    "iso_timestamp": "2026-06-08T19:57:12.290753+00:00",
+    "messages_per_day": 0,
+    "response_time_avg_minutes": 0.0,
+    "source": "mock",
+    "welle": "25"
+  }
+}
