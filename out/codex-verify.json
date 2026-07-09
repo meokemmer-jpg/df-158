@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test speist echte mehrkanalige Nachrichten mit Off-Hours-, Same-User- und No-Response-Gegenfällen ein und prüft daraus berechnete Zählungen, Mediane, Prozentwerte und Rankings statt nur Mocks oder selbst gesetzte Konstanten.",
+  "ts": "2026-07-08T15:07:44.661709+00:00"
+}
